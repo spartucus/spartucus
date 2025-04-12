@@ -18,4 +18,4 @@
   | **[Findora](https://github.com/FindoraNetwork/platform)**| Rust | A layer 1 that support confidential transfer |
   | **[OlaVM](https://github.com/Sin7Y/olavm)**<br>**[Ola-OS](https://github.com/Sin7Y/ola-os)**| Rust, Plonky2 | A privacy preserved zkVM layer 2 |
   | **[EOS](https://github.com/EOSIO/eos)**| C++ | |
-  | **[Rust 程序设计语言简体中文版](https://github.com/KaiserY/trpl-zh-cn)**| Rust | [Officially recommended](https://doc.rust-lang.org/book/appendix-06-translation.html) and most widely read Chinese translation |
+  | **[The Rust Programming Language 中文版](https://github.com/KaiserY/trpl-zh-cn)**| Rust | [Officially recommended](https://doc.rust-lang.org/book/appendix-06-translation.html) and most widely read Chinese translation |
