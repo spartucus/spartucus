@@ -2,8 +2,6 @@
 
 - 🧠 Always interested in cutting-edge blockchain technology.
 
-- 💬 Let's Build the Future of Web3
-
   Open to discuss: ZK Proofs • VM Design • Cryptography • Efficient Blockchain <br>
   [![Twitter](https://img.shields.io/badge/-@niubob-1DA1F2?style=flat&logo=twitter)](https://twitter.com/niubob)
   [![Telegram](https://img.shields.io/badge/@spartucus-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/spartucus)
